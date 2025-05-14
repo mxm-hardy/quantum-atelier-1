@@ -2,3 +2,7 @@ matplotlib
 ipympl
 numpy
 jupyterlab
+qiskit
+qiskit-aer
+pylatexenc
+pandas
